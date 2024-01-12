@@ -18,7 +18,7 @@ ProductAPI is a simple CRUD (Create, Read, Update, Delete) API designed for mana
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/harish675/Product__API>
     cd <project-folder>
     ```
 2. Install dependencies:
