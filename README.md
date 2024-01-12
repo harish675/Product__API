@@ -13,6 +13,7 @@ ProductAPI is a simple CRUD (Create, Read, Update, Delete) API designed for mana
 ## Setup
 ### Prerequisites
 - [Node.js](https://nodejs.org/) installed
+- [Express.js](https://expressjs.com/) installed
 - [MongoDB](https://www.mongodb.com/) installed and running
 
 ### Installation
